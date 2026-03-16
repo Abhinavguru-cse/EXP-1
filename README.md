@@ -59,11 +59,7 @@ https://github.com/Abhinavguru-cse/EXP-1/blob/main/1.jpeg?raw=true
 
 Tabulation:
 
-a.   KVL:
- 
-
-
-b.  KCL:
+https://github.com/Abhinavguru-cse/EXP-1/blob/main/2.jpeg?raw=true
 
 
 
