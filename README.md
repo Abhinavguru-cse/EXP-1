@@ -43,8 +43,7 @@ CIRCUIT DIAGRAM:
 
 a.   KVL:
 
- 
-
+ https://github.com/Abhinavguru-cse/EXP-1/blob/main/Screenshot%202026-03-16%20112812.png?raw=true
 
 b.  KCL:
  
