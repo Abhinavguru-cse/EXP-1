@@ -52,11 +52,7 @@ https://github.com/Abhinavguru-cse/EXP-1/blob/main/Screenshot%202026-03-16%20112
 
 Calculation:
 
-a.   KVL:
- 
-
-
-b.  KCL:
+https://github.com/Abhinavguru-cse/EXP-1/blob/main/1.jpeg?raw=true
 
 
 
