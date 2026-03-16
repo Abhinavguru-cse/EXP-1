@@ -43,25 +43,25 @@ CIRCUIT DIAGRAM:
 
 a.   KVL:
 
- https://github.com/Abhinavguru-cse/EXP-1/blob/main/Screenshot%202026-03-16%20112812.png?raw=true
+![image]( https://github.com/Abhinavguru-cse/EXP-1/blob/main/Screenshot%202026-03-16%20112812.png?raw=true)
 
 b.  KCL:
 
-https://github.com/Abhinavguru-cse/EXP-1/blob/main/Screenshot%202026-03-16%20112853.png?raw=true
+![image](https://github.com/Abhinavguru-cse/EXP-1/blob/main/Screenshot%202026-03-16%20112853.png?raw=true)
  
 
 Calculation:
 
-https://github.com/Abhinavguru-cse/EXP-1/blob/main/1.jpeg?raw=true
+![image](https://github.com/Abhinavguru-cse/EXP-1/blob/main/1.jpeg?raw=true)
 
 
 
 
 Tabulation:
 
-https://github.com/Abhinavguru-cse/EXP-1/blob/main/2.jpeg?raw=true
+![image](https://github.com/Abhinavguru-cse/EXP-1/blob/main/2.jpeg?raw=true)
 
-https://github.com/Abhinavguru-cse/EXP-1/blob/main/3.jpeg?raw=true
+![image](https://github.com/Abhinavguru-cse/EXP-1/blob/main/3.jpeg?raw=true)
 
 
 
