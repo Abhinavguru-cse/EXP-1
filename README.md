@@ -61,6 +61,8 @@ Tabulation:
 
 https://github.com/Abhinavguru-cse/EXP-1/blob/main/2.jpeg?raw=true
 
+https://github.com/Abhinavguru-cse/EXP-1/blob/main/3.jpeg?raw=true
+
 
 
 RESULT:
